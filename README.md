@@ -17,4 +17,7 @@ MINIMATCH  -  Waiting on maintainer since aug 2026 <BR>
 Write up: <BR>
 Nighthawk r6900 root via UART - https://github.com/b1nv0id/iothacking/blob/main/nighthawkr6900.txt
 
+IRC:
+irc.oftc.net / #coffee - [security research and general discussion]
+
 
