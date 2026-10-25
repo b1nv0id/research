@@ -4,7 +4,9 @@ Linux Contributions: <BR>
 XFS Kernel Patch: https://lore.kernel.org/linux-xfs/a785481f-74a4-468a-b164-0b7a55c04246@redhat.com/T/#t
 <BR>
 XFAT Kernel Patch: https://lore.kernel.org/linux-fsdevel/20261025122639.1173247-1-skibletz@gmail.com/
-<br><br>
+<br>
+mem: fsl_ifc Kernel Patch: https://lore.kernel.org/all/20261025170833.1316443-1-skibletz@gmail.com/
+<br>
 Github Security Advisories:<BR>
 PHPSYSINFO -  https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf <BR>
 CACTI      -  Accepted, Still being patched <BR>
