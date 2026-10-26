@@ -14,7 +14,7 @@ OPENLIST   -  Accepted, Still being patched <BR>
 BOIDCMS    -  Waiting on maintainer since aug 2026 <BR>
 MINIMATCH  -  Waiting on maintainer since aug 2026 <BR>
 
-Write up: <BR>
+IOT Hacking Write up: <BR>
 Nighthawk r6900 root via UART - https://github.com/b1nv0id/iothacking/blob/main/nighthawkr6900.txt
 
 IRC:<br>
