@@ -7,6 +7,7 @@ eXFAT Kernel Patch: https://lore.kernel.org/linux-fsdevel/20261025122639.1173247
 <br><br>
 Github Security Advisories:<BR>
 MINIMATCH  -  https://github.com/isaacs/minimatch/security/advisories/GHSA-g3hv-75wg-m249 (CVE-2026-118764)<br>
+              https://nvd.nist.gov/vuln/detail/cve-2026-118764<br><br>
 PHPSYSINFO -  https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf <BR>
 CACTI      -  Accepted, Still being patched <BR>
 OPENLIST   -  Accepted, Still being patched <BR>
