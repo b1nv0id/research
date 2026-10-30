@@ -4,7 +4,6 @@ Linux Contributions: <BR>
 XFS Kernel Patch: https://lore.kernel.org/linux-xfs/a785481f-74a4-468a-b164-0b7a55c04246@redhat.com/
 <BR>
 eXFAT Kernel Patch: https://lore.kernel.org/linux-fsdevel/20261025122639.1173247-1-skibletz@gmail.com/
-<br>
 <br><br>
 Github Security Advisories:<BR>
 MINIMATCH  -  https://github.com/isaacs/minimatch/security/advisories/GHSA-g3hv-75wg-m249 (CVE-2026-118764)<br>
