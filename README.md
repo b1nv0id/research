@@ -11,7 +11,8 @@ CVE        - https://www.cve.org/CVERecord?id=CVE-2026-118764<BR>
 GHSA       - https://github.com/isaacs/minimatch/security/advisories/GHSA-g3hv-75wg-m249<br>
 NIST       - https://nvd.nist.gov/vuln/detail/cve-2026-118764<br><br>
 <BR>
-PHPSYSINFO - 
+PHPSYSINFO 
+<BR>
 GHSA       - https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf <BR>
 <BR>
 CACTI      - Accepted, Still being patched <BR>
