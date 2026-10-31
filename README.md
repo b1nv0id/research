@@ -6,7 +6,7 @@ XFS Kernel Patch: https://lore.kernel.org/linux-xfs/a785481f-74a4-468a-b164-0b7a
 eXFAT Kernel Patch: https://lore.kernel.org/linux-fsdevel/20261025122639.1173247-1-skibletz@gmail.com/
 <br><br>
 Security Advisories:<BR>
-MINIMATCH (DOS) 
+MINIMATCH (DOS)<br> 
 CVE        - https://www.cve.org/CVERecord?id=CVE-2026-118764<BR>
 GHSA       - https://github.com/isaacs/minimatch/security/advisories/GHSA-g3hv-75wg-m249<br>
 NIST       - https://nvd.nist.gov/vuln/detail/cve-2026-118764
