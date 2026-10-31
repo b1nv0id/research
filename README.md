@@ -14,7 +14,6 @@ NIST       - https://nvd.nist.gov/vuln/detail/cve-2026-118764
 PHPSYSINFO (CMD INJECTION)
 <BR>
 GHSA       - https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf <BR>
-<BR>
 CACTI      - Accepted, Still being patched <BR>
 OPENLIST   - Accepted, Still being patched <BR>
 BOIDCMS    - Waiting on maintainer since aug 2026 <BR>
