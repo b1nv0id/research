@@ -9,7 +9,7 @@ Security Advisories:<BR>
 MINIMATCH  -  
 CVE        - https://www.cve.org/CVERecord?id=CVE-2026-118764<BR>
 GHSA       - https://github.com/isaacs/minimatch/security/advisories/GHSA-g3hv-75wg-m249<br>
-NIST       - https://nvd.nist.gov/vuln/detail/cve-2026-118764<br><br>
+NIST       - https://nvd.nist.gov/vuln/detail/cve-2026-118764
 <BR>
 PHPSYSINFO 
 <BR>
