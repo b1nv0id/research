@@ -15,7 +15,7 @@ CACTI      - (PRIVATE)<br>
 CVE        - https://www.cve.org/CVERecord?id=CVE-2026-120700 (CVE RESERVED)<BR><br>
 PHPSYSINFO (CMD INJECTION)
 <BR>
-GHSA       - https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf <BR>
+GHSA       - https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf <BR><br>
 OPENLIST   - Accepted, Still being patched <BR>
 BOIDCMS    - Waiting on maintainer since aug 2026 <BR>
 
