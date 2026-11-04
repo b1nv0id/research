@@ -11,7 +11,7 @@ CVE        - https://www.cve.org/CVERecord?id=CVE-2026-118764<BR>
 GHSA       - https://github.com/isaacs/minimatch/security/advisories/GHSA-g3hv-75wg-m249<br>
 NIST       - https://nvd.nist.gov/vuln/detail/cve-2026-118764
 <BR>
-CACTI      - (CVE RESERVED)<br>
+CACTI      - (PRIVATE)<br>
 CVE        - https://www.cve.org/CVERecord?id=CVE-2026-120700 (CVE RESERVED)<BR>
 PHPSYSINFO (CMD INJECTION)
 <BR>
