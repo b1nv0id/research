@@ -6,6 +6,7 @@ XFS Kernel Patch: https://lore.kernel.org/linux-xfs/179380150683.5728.1818667649
 <BR>
 eXFAT Kernel Patch: https://lore.kernel.org/linux-fsdevel/20261025122639.1173247-1-skibletz@gmail.com/
 <br><br>
+Reported by Reid Downing: https://git.kernel.org/pub/scm/linux/kernel/git/krzk/linux-mem-ctrl.git/commit/?id=a78ee2e05f7c7dd09e58ea615960105f78dc3c75 <br>
 Security Advisories:<BR>
 MINIMATCH (DOS)<br> 
 CVE        - https://www.cve.org/CVERecord?id=CVE-2026-118764<BR>
