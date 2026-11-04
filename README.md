@@ -2,7 +2,7 @@ Name: Reid Downing (b1nv0id)<br>
 
 Linux Contributions: <BR>
 XFS Kernel Patch: https://lore.kernel.org/linux-xfs/a785481f-74a4-468a-b164-0b7a55c04246@redhat.com/<br>
-Patch applied:    https://lore.kernel.org/linux-xfs/179380150683.5728.1818667649783476739.b4-ty@kernel.org/<br>
+XFS Kernel Patch: https://lore.kernel.org/linux-xfs/179380150683.5728.1818667649783476739.b4-ty@kernel.org/<br>
 <BR>
 eXFAT Kernel Patch: https://lore.kernel.org/linux-fsdevel/20261025122639.1173247-1-skibletz@gmail.com/
 <br><br>
