@@ -8,13 +8,13 @@ eXFAT Kernel Patch: https://lore.kernel.org/linux-fsdevel/20261025122639.1173247
 <br><br>
 Discovered Zero day: https://git.kernel.org/pub/scm/linux/kernel/git/krzk/linux-mem-ctrl.git/commit/?id=a78ee2e05f7c7dd09e58ea615960105f78dc3c75 <br><br>
 Security Advisories:<BR>
-MINIMATCH (DOS)<br> 
+MINIMATCH (DOS) [CVE-2026-118764]<br>
 CVE        - https://www.cve.org/CVERecord?id=CVE-2026-118764<BR>
 GHSA       - https://github.com/isaacs/minimatch/security/advisories/GHSA-g3hv-75wg-m249<br>
 NIST       - https://nvd.nist.gov/vuln/detail/cve-2026-118764<br>
 <BR>
-CACTI      - (PRIVATE)<br>
-CVE        - https://www.cve.org/CVERecord?id=CVE-2026-120700 (CVE RESERVED)<BR><br>
+CACTI      - (PRIVATE)[CVE-2026-120700] (CVE RESERVED)<br>
+CVE        - https://www.cve.org/CVERecord?id=CVE-2026-120700<BR><br>
 PHPSYSINFO (CMD INJECTION)
 <BR>
 GHSA       - https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf <BR><br>
