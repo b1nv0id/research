@@ -17,8 +17,9 @@ PHPSYSINFO (CMD INJECTION)
 <BR>
 GHSA       - https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf <BR><br>
 
-IOT Hacking Write up: <BR>
-Nighthawk r6900 root via UART - https://github.com/b1nv0id/iothacking/blob/main/nighthawkr6900.txt
+Rooting embedded devices: <BR>
+Nighthawk r6900 root via UART - https://github.com/b1nv0id/iothacking/blob/main/nighthawkr6900.txt<br>
+TP-Link AC4000 Archer A20     - https://github.com/b1nv0id/iothacking/blob/main/archer20.txt <br>
 
 IRC:<br>
 irc.oftc.net / #coffee - [security research and general discussion]
