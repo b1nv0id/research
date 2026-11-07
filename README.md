@@ -18,8 +18,8 @@ PHPSYSINFO (CMD INJECTION)
 GHSA       - https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf <BR><br>
 
 Rooting embedded devices: <BR>
-Nighthawk r6900 root via UART - https://github.com/b1nv0id/iothacking/blob/main/nighthawkr6900.txt<br>
-TP-Link AC4000 Archer A20     - https://github.com/b1nv0id/iothacking/blob/main/archer20.txt <br>
+Netgear Nighthawk AC1900 R6900 - https://github.com/b1nv0id/iothacking/blob/main/nighthawkr6900.txt<br>
+TP-Link AC4000 Archer A20      - https://github.com/b1nv0id/iothacking/blob/main/archer20.txt <br>
 
 IRC:<br>
 irc.oftc.net / #coffee - [security research and general discussion]
