@@ -18,8 +18,6 @@ CVE        - https://www.cve.org/CVERecord?id=CVE-2026-120700<BR><br>
 PHPSYSINFO (CMD INJECTION)
 <BR>
 GHSA       - https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf <BR><br>
-OPENLIST   - Accepted, Still being patched <BR>
-BOIDCMS    - Waiting on maintainer since aug 2026 <BR>
 
 IOT Hacking Write up: <BR>
 Nighthawk r6900 root via UART - https://github.com/b1nv0id/iothacking/blob/main/nighthawkr6900.txt
