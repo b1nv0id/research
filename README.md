@@ -3,6 +3,7 @@ Website: https://www.trillasoft.com<br><br>
 Linux Contributions: <BR>
 XFS Kernel Patch: https://lore.kernel.org/linux-xfs/a785481f-74a4-468a-b164-0b7a55c04246@redhat.com/<br>
 XFS Kernel Patch: https://lore.kernel.org/linux-xfs/179380150683.5728.1818667649783476739.b4-ty@kernel.org/<br>
+Merged: https://git.kernel.org/pub/scm/linux/kernel/git/stable/stable-queue.git/diff/staging-5.10/xfs-fix-wrong-compat-fields-in-xfs_ioctl32_bstat_cop.patch?id=715271b216ca2f21249983187ce1def818b1282e
 <BR>
 eXFAT Kernel Patch: https://lore.kernel.org/linux-fsdevel/20261025122639.1173247-1-skibletz@gmail.com/
 <br><br>
