@@ -25,7 +25,5 @@ TP-Link AC4000 Archer A20      - https://github.com/b1nv0id/iothacking/blob/main
 IRC:<br>
 irc.oftc.net / #coffee - [security research and general discussion]
 
-[ SPOOF ]
-Change your ip to another location and hide from online threats: https://go.nordvpn.net/SHCIK
 
 
