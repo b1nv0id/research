@@ -19,10 +19,13 @@ PHPSYSINFO (CMD INJECTION)
 GHSA       - https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf <BR><br>
 
 Rooting embedded devices: <BR>
-Netgear Nighthawk AC1900 R6900 - https://github.com/b1nv0id/iothacking/blob/main/nighthawkr6900.txt<br>
+Netgear Nighthawk AC1900 R6900 - https://github.com/b1nv0id/iothacking/blob/main/nighthawkr6900.txhttps://go.nordvpn.net/SHCIKt<br>
 TP-Link AC4000 Archer A20      - https://github.com/b1nv0id/iothacking/blob/main/archer20.txt <br>
 
 IRC:<br>
 irc.oftc.net / #coffee - [security research and general discussion]
+
+[ SPOOF ]
+Change your ip to another location and hide from online threats: https://go.nordvpn.net/SHCIK
 
 
