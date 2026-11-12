@@ -16,13 +16,13 @@ NIST       - https://nvd.nist.gov/vuln/detail/cve-2026-118764<br>
 <BR>
 PHPSYSINFO (CMD INJECTION)
 <BR>
-GHSA       - https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf <BR><br>
+GHSA       - https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf <BR>
 
 Rooting embedded devices via UART port: <BR>
 Netgear Nighthawk AC1900 R6900 - https://github.com/b1nv0id/iothacking/blob/main/nighthawkr6900.txt<br>
 TP-Link AC4000 Archer A20      - https://github.com/b1nv0id/iothacking/blob/main/archer20.txt <br>
 
-Remote root exploit:
+Root exploit code:
 TP-Link AC4000 Archer A20      - https://github.com/b1nv0id/iothacking/blob/main/archv0id.py 
 
 IRC:<br>
